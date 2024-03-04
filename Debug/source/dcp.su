@@ -1,0 +1,6 @@
+../source/dcp.c:89:6:TestAesEcb	64	static
+../source/dcp.c:131:6:TestAesCbc	64	static
+../source/dcp.c:176:6:TestSha1	80	static
+../source/dcp.c:211:6:TestSha256	80	static
+../source/dcp.c:253:6:TestCrc32	80	static
+../source/dcp.c:338:5:main	16	static
