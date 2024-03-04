@@ -5,7 +5,7 @@
  * Generated linker script file for MIMXRT1024xxxxx
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v11.9.0 [Build 2144] [2024-01-05] on 4 Mar 2024, 12:44:23
+ * MCUXpresso IDE v11.9.0 [Build 2144] [2024-01-05] on 4 Mar 2024, 13:02:55
  */
 
 INCLUDE "evkmimxrt1024_dcp_Debug_library.ld"
